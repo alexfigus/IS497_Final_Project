@@ -7,3 +7,4 @@ Pandas Development Team. (2022). pandas.DataFrame.nlargest. Pandas Documentation
 
 Pandas Development Team. (2022). pandas.DataFrame.sort_values. Pandas Documentation. Retrieved from https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.sort_values.html
 
+Rajkumar. S. (2021). Cryptocurrency Historical Prices. Kaggle. Retrieved from https://www.kaggle.com/datasets/sudalairajkumar/cryptocurrencypricehistory.
