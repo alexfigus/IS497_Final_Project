@@ -10,4 +10,9 @@ This step takes the retrieve raw datasets and transforms the CSV files into a si
 How to Install OpenRefine: https://docs.openrefine.org/manual/installing
 
 # Step 3: Jupyter Notebook
-The last step of the datset is to analyze and visualize the cryptocurrencies. The notebook will provide a detailed description of the steps needed to make the numerous graphs. This step is important because there are numerous methods that users can perform to research other parts of the dataset.
+The last step of the datset is to analyze and visualize the cryptocurrencies. The notebook will provide a detailed description of the steps needed to make the numerous graphs. This step is important because there are numerous methods that users can perform to research other parts of the dataset. More information will be provided in the python folder.
+
+How to Install Jupyter Notebook: https://jupyter.org/install
+
+# Future For Larger Project
+My hope for the future of this project would be to analyze more of the columns and compare their results with my stated hypothesis. The hypothesis I came up with this project is older cryptocurrencies have a higher market value because they were able to reach the audience first. As stated in the Jupyter Notebook, the analysis shows that the two oldestt Cryptocurrencies, Bitcoin and Dogecoin, had high marketcaps compared to their new crypto counterparts. These two coins support my claim but I believe more evidence is needed to support it. I would also like to review other datasets from Twitter because these coins are not protected by government organizations such as the SEC. This means users can manipulate their value and take advantage of these fragile markets.
